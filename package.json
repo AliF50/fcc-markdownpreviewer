@@ -12,7 +12,9 @@
   "devDependencies": {
     "react-scripts": "1.0.7"
   },
+  "homepage": "https://alif50.github.io/fcc-markdownpreviewer",
   "scripts": {
+    "deploy" : "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
