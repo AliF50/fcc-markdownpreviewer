@@ -19,7 +19,7 @@ class MarkDown extends Component{
 				<Row className =  "show-grid">
 					<Col xs={4} xsOffset = {2}>
 						<h1>Markdown Previewer</h1>
-						<p>Write your markdown in the textarea to the left and the preview will be shown on the left</p>
+						<p>Write your markdown in the textarea to the left and the preview will be shown on the right.</p>
 					</Col>
 				</Row>
 				<Row className = "show-grid">
